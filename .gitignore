@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (optional - remove if you want to upload model)
+*.pkl
+*.joblib
+
+# Data files (optional - remove if dataset is small)
+data/*.csv
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# CatBoost info
+catboost_info/

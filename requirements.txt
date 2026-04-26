@@ -1,0 +1,40 @@
+# Core
+
+numpy
+pandas
+
+# Visualization
+
+matplotlib
+seaborn
+
+# Machine Learning
+
+scikit-learn
+
+# Imbalanced Data
+
+imbalanced-learn
+
+# Models
+
+xgboost
+lightgbm
+catboost
+
+# Model Saving
+
+joblib
+
+# Explainability
+
+shap
+
+# App Deployment
+
+streamlit
+
+# Optional (better performance / compatibility)
+
+scipy
+tqdm
